@@ -32,19 +32,6 @@ li {
   
 }
 
-body {
-
-background-image: url('image/aman/elon3.jpg');
-background-size: contain;
-background-repeat: no-repeat;
-background-position: right;
-background-color: black;
-    background-blend-mode: normal;
-    height: 100%;
-  
- 
-   
-}
 
 .left {
     font-family: "Audiowide", sans-serif;
