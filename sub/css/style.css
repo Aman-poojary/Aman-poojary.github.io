@@ -34,7 +34,7 @@ li {
 
 body {
 
-background-image: url('/image/aman/elon3.jpg');
+background-image: url('image/aman/elon3.jpg');
 background-size: contain;
 background-repeat: no-repeat;
 background-position: right;
