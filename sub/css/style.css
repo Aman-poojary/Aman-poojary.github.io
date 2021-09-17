@@ -32,7 +32,7 @@ li {
   
 }
 
- body {
+ .whole{
      background-image: url('https://github.com/Aman-poojary/Aman-poojary.github.io/blob/main/image/aman/Elon.jpg');
      background-size: contain;
      background-repeat: no-repeat;
