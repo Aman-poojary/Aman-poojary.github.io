@@ -33,7 +33,7 @@ li {
 }
 
  body {
-     background-image: url('/image/aman/elon.JPG');
+     background-image: url("https://github.com/Aman-poojary/Aman-poojary.github.io/blob/main/image/aman/elon.jpg");
      background-size: contain;
      background-repeat: no-repeat;
      background-position: right;
