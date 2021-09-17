@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-size: larger;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    padding-top: 5vh;
+    height: 8vh;
+   
+    
+}
+
+li {
+    padding: 0px 4vw;
+}
+
+.container {
+    display: flex;
+    flex-wrap: column;
+    margin-top: 1vh;
+    padding-right: 5px;
+ 
+  
+}
+
+body {
+
+background-image: url('elon3.jpg');
+background-size: contain;
+background-repeat: no-repeat;
+background-position: right;
+background-color: black;
+    background-blend-mode: normal;
+    height: 100%;
+  
+ 
+   
+}
+
+.left {
+    font-family: "Audiowide", sans-serif;
+    color:white;
+    font-size: x-large;
+    padding-left: 16px;
+  
+  
+}
+
+/* .right { */
+
+    /* background-color: aqua; */
+
+    /* padding: 35px 10px; */
+    /* background-image: url(elon.jpg);
+background-size: contain;
+background-repeat: no-repeat; */
+    /* position: relative;
+    top: 3vh;
+} */
+
+.orange {
+    color: orange;
+}
+
+.wrapper ul ul{
+display: none;
+position: absolute;
+}
+.wrapper ul ul li{
+list-style: none;
+padding-top: 15px;
+display: block;
+
+margin-top: 2px;
+
+}
+.wrapper ul li:hover > ul{
+display: block;
+}
