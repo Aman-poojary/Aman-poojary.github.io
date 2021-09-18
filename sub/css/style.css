@@ -44,7 +44,7 @@ li {
      background-position: right;
      background-color: black;
      background-blend-mode: normal;
-     height: auto;  
+     height: 100vh;  
 }
    
 
