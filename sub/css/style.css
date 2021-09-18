@@ -15,11 +15,14 @@ ul {
     justify-content: center;
     padding-top: 5vh;
     height: 5vh;
-   
+    position: fixed;
+  top: 0;
+  width: 100%;
     
 }
 ul ul{
-    padding-top:1vh
+    padding-top:10vh
+    background-color: transparent;
 }
 li {
     padding: 0px 4vw;
