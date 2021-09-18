@@ -23,7 +23,8 @@ ul {
     
 }
 ul ul{
-    padding-top:10vh
+    padding-top:10vh;
+  background-color: transparent;
 }
 li {
     padding: 0px 4vw;
@@ -65,7 +66,7 @@ display: block;
     left: 90px;
 }
 .tesla{
-    background-image: url('https://i.ibb.co/9tzZRX3/car4.jpgs');
+    background-image: url('https://i.ibb.co/JrgFMp5/tesla7.jpg');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
