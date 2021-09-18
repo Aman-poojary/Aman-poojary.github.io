@@ -1,1 +1,27 @@
 
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-size: larger;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    padding-top: 5vh;
+    height: 5vh;
+   
+    
+}
+ul ul{
+    padding-top:1vh
+}
+li {
+    padding: 0px 4vw;
+}
