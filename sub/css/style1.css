@@ -1,5 +1,5 @@
 
-* {
+  * {
     margin: 0;
     padding: 0;
 }
@@ -16,11 +16,14 @@ ul {
     justify-content: center;
     padding-top: 5vh;
     height: 5vh;
-   
+    background-color: black;
+    position: fixed;
+  top: 0;
+  width: 100%;
     
 }
 ul ul{
-    padding-top:1vh
+    padding-top:10vh
 }
 li {
     padding: 0px 4vw;
@@ -37,9 +40,7 @@ position: absolute;
 list-style: none;
 padding-top: 15px;
 display: block;
-
 margin-top: 2px;
-
 }
 .wrapper ul li:hover > ul{
 display: block;
@@ -64,18 +65,19 @@ display: block;
     left: 90px;
 }
 .tesla{
-    background-image: url('https://ibb.co/M6WBqT5');
+    background-image: url('https://i.ibb.co/9tzZRX3/car4.jpgs');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
     height: 700px;
     padding-left: 50px;
+    margin-top: 9vh;
     
     
 }
 .spacex{
-    background-image: url('https://ibb.co/9p1FqYb');
+    background-image: url('https://i.ibb.co/sgN0F3K/spacex.jpg');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -84,16 +86,17 @@ display: block;
     padding-left: 50px;
 }
 .paypal{
-    background-image: url('https://ibb.co/rm4HV5P');
+    background-image: url('https://i.ibb.co/QfrM4YB/paypal2.jpg');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     height: 700px;
     padding-left: 50px;
+    
 }
 .openai{
-    background-image: url('https://ibb.co/4gv9jbf');
+    background-image: url('https://i.ibb.co/CsCNnjt/openai3.jpg');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -102,7 +105,7 @@ display: block;
     padding-left: 50px;
 }
 .solarcity{
-    background-image: url('https://ibb.co/g6r1dcK');
+    background-image: url('https://i.ibb.co/qxDGC2Q/solar11.jpg');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -111,7 +114,7 @@ display: block;
     padding-left: 50px;
 }
 .boringcompany{
-    background-image: url('https://ibb.co/PhG97xN');
+    background-image: url('https://i.ibb.co/Fw40S6K/bor2.png');
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -158,7 +161,10 @@ display: block;
 .silver{
     color: rgb(230, 105, 55);
 }
-.black1
-{
-    background-color:black;
+.m{
+    color: black;
+    font-family: "Audiowide", sans-serif;
+    font-size: x-large;
+    text-indent: 50px;
+    padding-left: 35px;
 }
