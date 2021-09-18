@@ -85,3 +85,117 @@ margin-top: 2px;
 .wrapper ul li:hover > ul{
 display: block;
 }
+.main{
+    display: flex;
+    justify-content: space-between;
+    }
+
+.button{
+    border: 2px solid orange;
+    border-radius: 9px;
+    width: 140px;
+    height: 32px;
+    text-align: center;
+    padding-top: 8px;
+    background-color: transparent;
+    position: relative;
+    font-family: "Audiowide", sans-serif;
+    font-size: large;
+    top: 0;
+    left: 90px;
+}
+.tesla{
+    background-image: url('car4.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 700px;
+    padding-left: 50px;
+    
+    
+}
+.spacex{
+    background-image: url('spacex.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    padding-left: 50px;
+}
+.paypal{
+    background-image: url('paypal2.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    padding-left: 50px;
+}
+.openai{
+    background-image: url('openai3.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    padding-left: 50px;
+}
+.solarcity{
+    background-image: url('solar11.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    padding-left: 50px;
+}
+.boringcompany{
+    background-image: url('bor2.png');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+    padding-left: 50px;
+}
+
+.f{
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-size: 375%;
+    
+    padding-left: 35px;
+
+}
+.g{
+    color: white;
+    font-family: "Audiowide", sans-serif;
+    font-size: x-large;
+    text-indent: 50px;
+    padding-left: 35px;
+
+}
+
+.h{
+    color: rgb(240, 243, 242);
+    font-family: "Audiowide", sans-serif;
+    font-size: x-large;
+    text-indent: 50px;
+    padding-left: 50px;
+
+}
+
+.blue2{
+    color: rgb(78, 78, 170);
+}
+.blue1{
+    color: rgb(27, 27, 160);
+}
+.black{
+    color: black;
+}
+.silver{
+    color: rgb(230, 105, 55);
+}
