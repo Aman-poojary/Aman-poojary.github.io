@@ -21,7 +21,7 @@ ul {
     
 }
 ul ul{
-    padding-top:10vh;
+    padding-top:100px;
     background-color: transparent;
 }
 li {
@@ -33,7 +33,7 @@ li {
     flex-wrap: column;
     margin-top: 1vh;
     padding-right: 5px;
- 
+ margin-top: 4vh;
   
 }
 
