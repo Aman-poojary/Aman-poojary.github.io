@@ -71,3 +71,16 @@ margin-top: 2px;
 .wrapper ul li:hover > ul{
 display: block;
 }
+.whole{
+    background-image: url('https://i.ibb.co/YtPGpqF/elon.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-blend-mode: normal;   
+}
+
+.video{
+   position:relative;
+   top:0;
+   padding-left: 50px;
+}
