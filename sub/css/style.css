@@ -8,22 +8,25 @@ a {
     color: white;
     font-family: "Audiowide", sans-serif;
     font-size: larger;
+    
 }
 
 ul {
     display: flex;
     justify-content: center;
     padding-top: 5vh;
-    height: 46px;
+    height: 5vh;
     position: fixed;
   top: 0;
   width: 100%;
+  /* background-color: black; */
     
 }
 ul ul{
-    margin-top: 53px;
+   margin-top: 53px;
     background-color: transparent;
 }
+
 li {
     padding: 0px 4vw;
 }
@@ -31,22 +34,14 @@ li {
 .container {
     display: flex;
     flex-wrap: column;
-   padding-left: 50px;
+    margin-top: 4vh;
     padding-right: 5px;
- margin-top: 4vh;
+    padding-left: 50px;
+ 
   
 }
 
- .whole{
-     background-image: url('https://i.ibb.co/YtPGpqF/elon.jpg');
-     background-size: contain;
-     background-repeat: no-repeat;
-     background-position: top;
-     background-color: black;
-     background-blend-mode: normal;
 
-}
-   
 
 .left {
     font-family: "Audiowide", sans-serif;
@@ -56,18 +51,6 @@ li {
   
   
 }
-
-/* .right { */
-
-    /* background-color: aqua; */
-
-    /* padding: 35px 10px; */
-    /* background-image: url(elon.jpg);
-background-size: contain;
-background-repeat: no-repeat; */
-    /* position: relative;
-    top: 3vh;
-} */
 
 .orange {
     color: orange;
@@ -79,18 +62,12 @@ position: absolute;
 }
 .wrapper ul ul li{
 list-style: none;
-padding-top: 15px;
+padding-top: 5px;
 display: block;
-
 margin-top: 2px;
+
 
 }
 .wrapper ul li:hover > ul{
 display: block;
-}
-.video{
-   position:relative;
-   top:0;
-   padding-left: 50px;
-
 }
